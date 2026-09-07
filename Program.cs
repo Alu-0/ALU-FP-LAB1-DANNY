@@ -9,3 +9,6 @@ int nota1 = int.Parse(System.Console.ReadLine());
 
 System.Console.WriteLine("Ingrese su nota 2:");
 int nota2 = int.Parse(System.Console.ReadLine());
+
+System.Console.WriteLine("Ingrese su nota 3:");
+int nota3 = int.Parse(System.Console.ReadLine());
